@@ -1,4 +1,4 @@
-<h1 algin="center">I'm Tatsuya Koyanagi</h1>
+<h1 align="center">I'm Tatsuya Koyanagi</h1>
 <!--
 **TatsuyaKoyanagi/TatsuyaKoyanagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
