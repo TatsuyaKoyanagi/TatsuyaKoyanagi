@@ -21,7 +21,7 @@ https://cps.ip.is.saga-u.ac.jp/ <br>
 佐賀大生向けに3Dプリンタやレーザー加工機といった機材の貸し出しや製作のサポートを行います。<br>
 また、企業と連携した小型建機の開発や県庁からの依頼による製作・イベント出展などを行いました。<br>
 [公式HP](https://www.ncjpn.com/)
-[公式X](https://www.sagamonosugofesta.info/)
+[公式X](https://x.com/saga_u_delab)
 
 ## 展示会等
 - [未来ものづくりEXPO2024](https://cps.ip.is.saga-u.ac.jp/?p=2822)(2024)
