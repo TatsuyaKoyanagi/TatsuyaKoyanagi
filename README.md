@@ -17,8 +17,7 @@
 インターンやアルバイト、個人開発で使用経験があります。[![My Skills](https://skillicons.dev/icons?i=python,kotlin,js,html,css,arduino,linux,unity,cs)](https://skillicons.dev)
 <br>
 ### 授業で学習 (Studied in Class)
-授業や基礎学習で触れた経験があります。
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,mysql,docker,blender)](https://skillicons.dev)
+授業や基礎学習で触れた経験があります。[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,mysql,docker,blender)](https://skillicons.dev)
 
 ## 🏢 アルバイト (Part-time Job)
 **中山ホールディングス [佐賀大deラボ](https://www.ncjpn.com/)** (2022年3月 ~ 現在)
