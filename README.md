@@ -3,8 +3,10 @@
 モノづくり工房でアルバイトをしており、小型建機の開発や体験型什器などさまざまなモノづくりをしています。
 
 ## 🔬 研究紹介 (Research) 
-所属研究室 <br>[福田・YEOH研究室](https://cps.ip.is.saga-u.ac.jp/) <br>
-**テーマ**:複合現実を用いた組み立て作業支援システムが二次元組立作業に及ぼす影響 <br>
+### 所属研究室 
+[福田・YEOH研究室](https://cps.ip.is.saga-u.ac.jp/) <br>
+### テーマ
+**複合現実を用いた組み立て作業支援システムが二次元組立作業に及ぼす影響** <br>
 [![紹介動画](./images/Thumbnail.png "紹介動画")](https://youtu.be/XVHCudhtdko?si=wegUWTtbsIYSvQMw)
 [YouTubeで見る](https://youtu.be/XVHCudhtdko?si=wegUWTtbsIYSvQMw)
 
