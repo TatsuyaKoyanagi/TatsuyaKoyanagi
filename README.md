@@ -33,7 +33,7 @@
 ## 📂 ポートフォリオ (Portfolio)
 詳細な実績はこちらにまとめています。
 <br>
-[👉 ポートフォリオを見る (Google Drive)]([https://drive.google.com/file/d/1DHrgED8xXBUWiZEBOKLxjEnyTC4qSj_a/view?usp=sharing](https://drive.google.com/drive/folders/1hfjjiMhCnLaG2ULgIB4_t6-7dDfTjxDI?usp=drive_link))
+[👉 ポートフォリオを見る (Google Drive)]([https://drive.google.com/file/d/1DHrgED8xXBUWiZEBOKLxjEnyTC4qSj_a/view?usp=sharing](https://drive.google.com/drive/folders/1hfjjiMhCnLaG2ULgIB4_t6-7dDfTjxDI?usp=drive_link)
 
 ## 🚀 展示会・イベント (Exhibitions)
 ### 研究室
